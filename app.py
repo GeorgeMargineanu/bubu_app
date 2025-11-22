@@ -93,7 +93,7 @@ if name.strip().lower() == "bubu":
         <div class="title">💖 Bubu Detected 💖</div>
         <div class="subtitle">Romantic Fireworks Mode: <i>ON</i> 🎆</div>
         <div class="small-text">
-          This show is dedicated 100% to Bubu.<br/>
+          This show is dedicated 100% to Alina.<br/>
           Please enjoy unlimited fireworks, love, and sparkles. ✨
         </div>
       </div>
